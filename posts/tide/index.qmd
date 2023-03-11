@@ -1,0 +1,23 @@
+---
+authors:
+- Chetan Chawla
+categories: [Quotations]
+date: "2012-06-08T00:00:00Z"
+draft: false
+image: featured.jpg
+
+lastmod: "2020-12-13T00:00:00Z" 
+projects: []
+subtitle: "Old blog post from 2012 on one of my favorite quotations."
+summary: "Old blog post from 2012 on one of my favorite quotations."
+
+title: There is a tide in the affairs of men....
+---
+
+![](featured.jpg){width="45.03in"}
+
+[Image credit: Ilona Frey on Unsplash](https://unsplash.com/photos/hSliLYLmm-c)
+
+There is a tide in the affairs of men. Which, taken at the flood, leads on to fortune; Omitted, all the voyage of their life Is bound in shallows and in miseries. On such a full sea are we now afloat, And we must take the current when it serves, Or lose our ventures.
+
+Brutus in Julius Caesar Act 4, scene 3,

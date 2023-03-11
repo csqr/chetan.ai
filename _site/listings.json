@@ -1,0 +1,26 @@
+[
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/ai satire/index.html",
+      "/posts/ai assistant memo/index.html",
+      "/posts/buffett on rationality/index.html",
+      "/posts/deep work review/index.html",
+      "/posts/disruption-lepore/index.html",
+      "/posts/karm/index.html",
+      "/posts/claudius/index.html",
+      "/posts/plumbing/index.html",
+      "/posts/genesis-fox/index.html",
+      "/posts/startups-growth-cuibono/index.html",
+      "/posts/caveat-lector/index.html",
+      "/posts/tide/index.html"
+    ]
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/research/blockchain-trust-jbvi/index.html",
+      "/research/uncertainty-jmh/index.html"
+    ]
+  }
+]
