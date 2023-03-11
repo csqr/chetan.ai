@@ -22,7 +22,8 @@ website:
   google-analytics: "G-T8ZXKBKWSC"
   cookie-consent: true
   search: true
-  twitter-card: true
+  twitter-card:
+   creator: "@chetanchawla"
   navbar:
    background: primary
    search: true
