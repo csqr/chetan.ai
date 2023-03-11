@@ -9,6 +9,10 @@ format:
 
 editor: visual
 
+execute:
+  # Re-render only when source changes
+  freeze: auto
+
 website:
   page-navigation: true
   title: "Chetan.ai"
