@@ -1,5 +1,3 @@
 # chetan.ai
 
-Personal website of Chetan Chawla
-
-R Studio git setup check after Quarto transition.
+Github repository for the personal website of [Chetan Chawla](http://www.chetan.ai/).
