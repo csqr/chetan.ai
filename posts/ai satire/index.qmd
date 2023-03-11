@@ -1,0 +1,45 @@
+---
+authors:
+- Chetan Chawla
+categories: [AI,AI Content,Critics,Disruption,Satire]
+date: "2023-03-05"
+draft: false
+
+lastmod: "2023-03-05T00:00:00Z" 
+projects: []
+subtitle: "AI generated satire"
+summary: "I asked an AI LLM to generate satire about AI critics"
+
+title: On AI Satire
+---
+
+**On AI Satire.**
+
+I have had a lot of fun playing with varied AI systems over the years, most recently with image generation systems like Dall-E and Stable Diffusion last year; and with LLMs in the last few months.
+
+I recently re-read [Bastiat\'s Economic Sophisms](https://amzn.to/3moPczo), a book I have enjoyed a lot. One of Bastiat\'s most well know satires is The Petition of Candlemakers ([link to recent post on Marc Andreessen\'s Substack](https://pmarca.substack.com/p/on-the-candlemakers-petition)). It\'s a sophisticated satire on the long-standing criticisms of free-trade, industrial competition, and technological waves.
+
+It occurred to me that humor and satire are far more sophisticated than many other language uses, therefore why not experiment with AI generated satire? So here are some early experiments using Type.ai
+
+**Prompt \# 1: Petition against AI in the style of Bastiat\'s Petition of the Candlemakers**
+
+![](figure1.png)
+
+Not a bad first cut, but there is a literalness to the output, probably because of
+the basic nature of my prompt. So lets try again...
+
+**Prompt \# 2: Petition Against AI: A Satirical Take on Bastiat's Petition of the Candlemakers**
+
+![](figure%202.png)
+
+Much better, there is a level of meta-cognition (I dislike anthropomorphizing AI, but couldn't think of a better term) in this response, and it has policy recommendations which, although satirical here, are likely to be put forward by AI critics in the coming months and years.
+
+The final satirical prompt follows...
+
+**Petition \# 3: Critics of AI: A Satirical Tale**
+
+![](figure%203.png)
+
+
+
+

@@ -1,0 +1,28 @@
+---
+authors:
+- Chetan Chawla
+categories: [AI,AI Content,Disruption,Investment Memo,Moats,Strategy]
+date: "2023-02-17T00:00:00Z"
+draft: false
+
+lastmod: "2023-02-27T00:00:00Z" 
+projects: []
+subtitle: "AI investment memo"
+summary: "AI is underestimated, even by optimists"
+
+title: AI assistant investment memo....
+---
+
+I have been playing around with the new generative AI systems for a while now, and continue to seek out and learn more about these technologies from both a user, and developer point of view.
+
+I asked [Type.ai](http://type.ai/) to create a 1-page investment memo on AI assistants, took around [**6 seconds**]{.underline}.\
+
+![](figure.jpg)
+
+Far more sophisticated than expected: nuanced answer with a discussion of competitive dynamics/ [#moats](https://www.linkedin.com/feed/hashtag/?keywords=moats&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7032367406517809152), and data/ projections very close to "human" research estimates: <https://lnkd.in/g9MfUDYu>\
+
+Just an incredible moment in technology history. AI is not just an application layer or enabling technology.
+
+AI is probably being underestimated by both the optimists and the pessimists.
+
+This changes how firms (& individuals) compete for value creation and capture.

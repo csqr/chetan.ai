@@ -1,0 +1,36 @@
+project:
+  type: website
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
+website:
+  page-navigation: true
+  title: "Chetan.ai"
+  site-url: "https://www.chetan.ai"
+  repo-url: "https://github.com/csqr/chetan.ai"
+  description: "Website of Chetan Chawla"
+  google-analytics: "G-T8ZXKBKWSC"
+  cookie-consent: true
+  search: true
+  twitter-card: true
+  navbar:
+   background: primary
+   search: true
+   left:
+    - text: "About"
+      file: about.qmd
+    - text: "Blog Posts"
+      file: posts.qmd
+    - text: "Research"
+      file: research.qmd
+  page-footer:
+   left: "Copyright 2023, Chetan Chawla. License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+   right: "Made with [R](https://www.r-project.org/) and [Quarto](https://quarto.org/).Inspiration and code snippets taken from [this source.](https://quarto.org/docs/websites/)"
+
+
